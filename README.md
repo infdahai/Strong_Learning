@@ -12,7 +12,7 @@ kaggle , tianchi and any other things about AI
     1. **import** [Gendered Pronoun Resolution](https://www.kaggle.com/c/gendered-pronoun-resolution)    nlp,text data
     2. [CareerCon 2019 - Help Navigate Robots](https://www.kaggle.com/c/career-con-2019)   robotics, signal processing, tabular data
     3. **import** [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)  image data, text data
-5. [社区组织的免费TPU,GPU比赛](https://www.flyai.com/?s=wwqjB6b3FjWYh)  
+5. **import** [社区组织的免费TPU,GPU比赛](https://www.flyai.com/?s=wwqjB6b3FjWYh)  
    
  
 ## Resource List (until 2019.3.31)
