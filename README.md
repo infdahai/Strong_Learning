@@ -28,7 +28,7 @@ kaggle , tianchi and any other things about AI
 ## Books List (until 2019.3.31)
 
 1. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
-2. [深度学习花书](http://www.deeplearningbook.org/)
+2. **import** [深度学习花书](http://www.deeplearningbook.org/)
     1. [中文链接](https://github.com/zsdonghao/deep-learning-book)
 3. 计算机视觉一些书籍(论文)
    1. Theory and Applications of Image Registration
@@ -42,7 +42,7 @@ kaggle , tianchi and any other things about AI
    8. [深度学习与计算机视觉 : 算法原理、框架应用与代码实现](https://book.douban.com/subject/27125397/)
       1. [github资源](https://github.com/frombeijingwithlove/dlcv_for_beginners)
 4. 深度学习入门_基于Python理论实现
-5. [神经⽹络与深度学习](http://neuralnetworksanddeeplearning.com/)
+5. **import** [神经⽹络与深度学习](http://neuralnetworksanddeeplearning.com/)
 6. [强化学习圣经](https://book.douban.com/subject/2866455/)
 7. [Neural Network Methods for Natural LanguageProcessing](https://www.amazon.com/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984)   
    1. NLP非常好的书
