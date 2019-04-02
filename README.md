@@ -14,16 +14,20 @@ kaggle , tianchi and any other things about AI
     3. **import** [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)  image data, text data
 5. **import** [社区组织的免费TPU,GPU比赛](https://www.flyai.com/?s=wwqjB6b3FjWYh)  
    
- 
+## 总体快速入门 (until 2019.4.2)
+
+1. [各领域知识笔记快速阅读](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+2. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
+
+
 ## Resource List (until 2019.3.31)
 
 1. [面试资源](https://github.com/CyC2018/CS-Notes)
 2. [GAN资源(论文集)](https://github.com/hindupuravinash/the-gan-zoo)
-3. **import** [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
-4. [ai比赛top解决方案](https://github.com/AI-Sphere/Awesome-AI-Competitions)
-5. **import** [Apachecn学习资源AI入门](https://github.com/apachecn/AiLearning)
+3. [ai比赛top解决方案](https://github.com/AI-Sphere/Awesome-AI-Competitions)
+4. **import** [Apachecn学习资源AI入门](https://github.com/apachecn/AiLearning)
     1. **import** [Apachecn学习资源kaggle实战](https://github.com/apachecn/kaggle)
-6. [计算机视觉论文](https://github.com/amusi/daily-paper-computer-vision)
+5. [计算机视觉论文](https://github.com/amusi/daily-paper-computer-vision)
 
 ## Books List (until 2019.3.31)
 
