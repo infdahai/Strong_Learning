@@ -14,7 +14,7 @@ kaggle , tianchi and any other things about AI
     3. **import** [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)  image data, text data
 5. **import** [社区组织的免费TPU,GPU比赛](https://www.flyai.com/?s=wwqjB6b3FjWYh)  
    
-## 总体快速入门 (until 2019.4.2)
+## [总体快速入门](#quick-start) (until 2019.4.2)
 
 1. [各领域知识笔记快速阅读](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 2. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
