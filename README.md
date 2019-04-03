@@ -29,7 +29,7 @@ kaggle , tianchi and any other things about AI
     1. **import** [Apachecn学习资源kaggle实战](https://github.com/apachecn/kaggle)
 5. [计算机视觉论文](https://github.com/amusi/daily-paper-computer-vision)
 
-## Books List (until 2019.3.31)
+## Books List (until 2019.4.3)
 
 1. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
 2. **import** [深度学习花书](http://www.deeplearningbook.org/)
