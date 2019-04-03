@@ -47,7 +47,11 @@ kaggle , tianchi and any other things about AI
       1. [github资源](https://github.com/frombeijingwithlove/dlcv_for_beginners)
 4. 深度学习入门_基于Python理论实现
 5. **import** [神经⽹络与深度学习](http://neuralnetworksanddeeplearning.com/)
-6. [强化学习圣经](https://book.douban.com/subject/2866455/)
+6. 强化学习一些书籍
+   1. [强化学习圣经](https://book.douban.com/subject/2866455/)
+   2. [新版圣经 2ed.](https://github.com/infdahai/Strong_Learning/blob/master/books/SuttonBartoIPRLBook2ndEd.pdf)
+   3. [强化学习python实操，基础](https://github.com/infdahai/Strong_Learning/blob/master/books/Sudharsan%20Ravichandiran%20-%20Hands-On%20Reinforcement%20Learning%20with%20Python_%20Master%20reinforcement%20and%20deep%20reinforcement%20learning%20using%20OpenAI%20Gym%20and%20TensorFlow-Packt%20Publishing%20(2018).epub)
+   3. [强化学习算法精简100页(2009)](https://github.com/infdahai/Strong_Learning/blob/master/books/Csaba%20Szepesv%C3%A1ri%20-%20Algorithms%20for%20Reinforcement%20Learning%20%20-Morgan%20%26%20Claypool%20(2010).pdf)
 7. [Neural Network Methods for Natural LanguageProcessing](https://www.amazon.com/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984)   
    1. NLP非常好的书
 8. [统计学习方法](https://book.douban.com/subject/10590856/)
