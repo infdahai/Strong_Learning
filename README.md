@@ -63,5 +63,7 @@ kaggle , tianchi and any other things about AI
     
 ### 整理完成，有点小累(2019.4.5)
    
-数据库的小东西
-1. [KindDB相关小实现](http://www.goossaert.com/)
+# 试图混入的其他东西
+## 数据库的小东西
+1. [KindDB相关小实现](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+2. [sqlite实现帮助](https://cstack.github.io/db_tutorial/)
