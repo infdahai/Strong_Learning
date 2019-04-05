@@ -63,3 +63,5 @@ kaggle , tianchi and any other things about AI
     
 ### 整理完成，有点小累(2019.4.5)
    
+数据库的小东西
+1. [KindDB相关小实现](http://www.goossaert.com/)
