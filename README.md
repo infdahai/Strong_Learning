@@ -59,6 +59,7 @@ kaggle , tianchi and any other things about AI
 9. GAN生成对抗网络
     1. [Gans-in-action](https://github.com/GANs-in-Action/gans-in-action)
     2. [Learning generative adversarial networks:next-generation deep learning simplified](https://book.douban.com/subject/27188997/)
+10. [西瓜书在线推导](https://github.com/datawhalechina/pumpkin-book)  
     
-### 整理完成，有点小累(2019.3.31)
+### 整理完成，有点小累(2019.4.5)
    
