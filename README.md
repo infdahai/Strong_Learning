@@ -18,7 +18,7 @@ kaggle , tianchi and any other things about AI
 
 1. [各领域知识笔记快速阅读](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 2. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
-
+3. [fudan NLP组开源入门资源](https://github.com/nndl/nndl.github.io)
 
 ## Resource List (until 2019.3.31)
 
@@ -47,7 +47,6 @@ kaggle , tianchi and any other things about AI
       1. [github资源](https://github.com/frombeijingwithlove/dlcv_for_beginners)
 4. 深度学习入门_基于Python理论实现
 5. **import** [神经⽹络与深度学习](http://neuralnetworksanddeeplearning.com/)
-    1. https://github.com/nndl/nndl.github.io
 6. 强化学习一些书籍
    1. [强化学习圣经](https://book.douban.com/subject/2866455/)
    2. [新版圣经 2ed.](https://github.com/infdahai/Strong_Learning/blob/master/books/SuttonBartoIPRLBook2ndEd.pdf)
