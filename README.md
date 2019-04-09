@@ -28,7 +28,10 @@ kaggle , tianchi and any other things about AI
 4. **import** [Apachecn学习资源AI入门](https://github.com/apachecn/AiLearning)
     1. **import** [Apachecn学习资源kaggle实战](https://github.com/apachecn/kaggle)
 5. [计算机视觉论文](https://github.com/amusi/daily-paper-computer-vision)
-6. [迁移学习资料](http://jd92.wang/assets/files/transfer_learning_tutorial_wjd.pdf)
+6. 迁移学习资料  
+    1. [pdf_url](http://jd92.wang/assets/files/transfer_learning_tutorial_wjd.pdf)
+       [github_url](https://github.com/jindongwang/transferlearning-tutorial)
+       
 ## Books List (until 2019.4.3)
 
 1. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
