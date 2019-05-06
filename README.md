@@ -1,6 +1,16 @@
 # Strong_Learning
 kaggle , tianchi and any other things about AI
 
+## Competition: (until 2019.5.6)
+
+1. [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/description) 
+    1. team : cluster
+2. [阿里巴巴优酷视频增强和超分辨率挑战赛](https://tianchi.aliyun.com/competition/entrance/231711/team)
+    1. team : cluster_
+3. [【新人赛】城市计算AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231712/introduction)
+    1. team: 该比赛无法组队，可线下交流
+    
+
 ## Task List :  (until 2019.3.31)
 
 1. **import** [全球城市计算AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231708/team)
