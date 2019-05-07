@@ -1,6 +1,9 @@
 # Strong_Learning
 kaggle , tianchi and any other things about AI
 
+## storage_resource (until 2019.5.7)
+1. [flyai非常好](https://www.flyai.com/)
+
 ## Competition: (until 2019.5.6)
 
 1. [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/description) 
