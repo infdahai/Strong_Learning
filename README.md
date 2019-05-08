@@ -14,6 +14,9 @@ kaggle , tianchi and any other things about AI
     1. team: 该比赛无法组队，可线下交流
 4. [字节跳动高校大数据竞赛](https://www.kesci.com/home/competition/5cb80fd312c371002b12355f/content)
 
+5. [腾讯广告大赛](https://algo.qq.com/application/home/introduction/flow.html?n=new)
+    初赛截止 5.23
+
 ## Task List :  (until 2019.3.31)
 
 1. **import** [全球城市计算AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231708/team)
