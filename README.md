@@ -4,7 +4,7 @@ kaggle , tianchi and any other things about AI
 ## storage_resource (until 2019.5.7)
 1. [flyai非常好](https://www.flyai.com/)
 
-## Competition: (until 2019.5.6)
+## Competition: (until 2019.5.9)
 
 1. [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/description) 
     1. team : cluster
@@ -12,7 +12,7 @@ kaggle , tianchi and any other things about AI
     1. team : cluster_
 3. [【新人赛】城市计算AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231712/introduction)
     1. team: 该比赛无法组队，可线下交流
-    
+4. [字节跳动高校大数据竞赛](https://www.kesci.com/home/competition/5cb80fd312c371002b12355f/content)
 
 ## Task List :  (until 2019.3.31)
 
