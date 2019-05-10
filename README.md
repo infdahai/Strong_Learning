@@ -53,6 +53,10 @@ kaggle , tianchi and any other things about AI
 ## Books List (until 2019.4.3)
 
 1. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
+    1. code-ipynb
+        1. [second-edition, tf2.0](https://github.com/ageron/handson-ml2)
+        2. [first-edition](https://github.com/ageron/handson-ml)
+        
 2. **import** [深度学习花书](http://www.deeplearningbook.org/)
     1. [中文链接](https://github.com/zsdonghao/deep-learning-book)
 3. 计算机视觉一些书籍(论文)
