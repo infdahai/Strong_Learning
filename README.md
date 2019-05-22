@@ -16,7 +16,8 @@ kaggle , tianchi and any other things about AI
 3. [【新人赛】城市计算AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231712/introduction)
     1. team: 该比赛无法组队，可线下交流
 4. [字节跳动高校大数据竞赛](https://www.kesci.com/home/competition/5cb80fd312c371002b12355f/content)
-
+    1. 资料: https://shimo.im/docs/43aq6U2GH0QpWEXw/read
+    
 5. [腾讯广告大赛](https://algo.qq.com/application/home/introduction/flow.html?n=new)
     1. 初赛截止 5.23
     2. 在5.23前未训练过一次数据。还是做好时间规划吧。唉
