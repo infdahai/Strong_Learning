@@ -7,7 +7,7 @@ kaggle , tianchi and any other things about AI
 
 2. [第五届中间件性能挑战赛](https://tianchi.aliyun.com/competition/entrance/231714/introduction?spm=5176.12281949.1003.1.3e984c2aouCMDi)
 
-## Competition: (until 2019.5.9)
+## Competition: (until 2019.5.22)
 
 1. [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/description) 
     1. team : cluster
@@ -18,7 +18,8 @@ kaggle , tianchi and any other things about AI
 4. [字节跳动高校大数据竞赛](https://www.kesci.com/home/competition/5cb80fd312c371002b12355f/content)
 
 5. [腾讯广告大赛](https://algo.qq.com/application/home/introduction/flow.html?n=new)
-    初赛截止 5.23
+    1. 初赛截止 5.23
+    2. 在5.23前未训练过一次数据。还是做好时间规划吧。唉
 
 ## Task List :  (until 2019.3.31)
 
