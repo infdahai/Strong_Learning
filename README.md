@@ -2,8 +2,10 @@
 kaggle , tianchi and any other things about AI
 
 
-## storage_resource (until 2019.5.7)
+## storage_resource (until 2019.5.22)
 1. [flyai非常好](https://www.flyai.com/)
+
+2. [第五届中间件性能挑战赛](https://tianchi.aliyun.com/competition/entrance/231714/introduction?spm=5176.12281949.1003.1.3e984c2aouCMDi)
 
 ## Competition: (until 2019.5.9)
 
@@ -81,10 +83,12 @@ kaggle , tianchi and any other things about AI
    1. NLP非常好的书
 8. [统计学习方法](https://book.douban.com/subject/10590856/)
    1. 基础书籍
+   2. [第二版](https://book.douban.com/subject/33437381/)
 9. GAN生成对抗网络
     1. [Gans-in-action](https://github.com/GANs-in-Action/gans-in-action)
     2. [Learning generative adversarial networks:next-generation deep learning simplified](https://book.douban.com/subject/27188997/)
 10. [西瓜书在线推导](https://github.com/datawhalechina/pumpkin-book)  
+
     
 ### 整理完成，有点小累(2019.4.5)
    
