@@ -43,6 +43,8 @@ kaggle , tianchi and any other things about AI
 4. [深度学习hao123](https://github.com/machinelearningmindset/deep-learning-ocean)
 5. [吴恩达机器学习课程笔记](http://www.ai-start.com/dl2017/)
 6. [个人笔记一类](www.huaxiaozhuan.com)
+7. [我爱nlp](http://www.52nlp.cn)
+
 ## Resource List (until 2019.3.31)
 
 1. [面试资源](https://github.com/CyC2018/CS-Notes)
