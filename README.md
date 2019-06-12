@@ -1,6 +1,7 @@
 # Strong_Learning
 kaggle , tianchi and any other things about AI
 
+**paper helper: https://paperswithcode.com/ **
 
 ## storage_resource (until 2019.5.22)
 1. [flyai非常好](https://www.flyai.com/)
