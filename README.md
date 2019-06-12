@@ -1,12 +1,15 @@
 # Strong_Learning
 kaggle , tianchi and any other things about AI
 
-**paper helper: https://paperswithcode.com/ **
+**paper helper: https://paperswithcode.com/**
 
 ## storage_resource (until 2019.5.22)
 1. [flyai非常好](https://www.flyai.com/)
 
 2. [第五届中间件性能挑战赛](https://tianchi.aliyun.com/competition/entrance/231714/introduction?spm=5176.12281949.1003.1.3e984c2aouCMDi)
+
+3. [贵在联通](https://www.kesci.com/home/competition/5be92233954d6e001063649a/content/6) 
+    暑假好好搞一下
 
 ## Competition: (until 2019.5.22)
 
