@@ -1,6 +1,7 @@
 # Strong_Learning
 kaggle , tianchi and any other things about AI
 
+OS 网课: https://chuanke.baidu.com/s1911416.html?qq-pf-to=pcqq.group
 
 2019.6.13, I use exercism today.
 
