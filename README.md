@@ -1,6 +1,11 @@
 # Strong_Learning
 kaggle , tianchi and any other things about AI
 
+
+2019.6.13, I use exercism today.
+
+*exercism: https://exercism.io/my/tracks*
+
 **paper helper: https://paperswithcode.com/**
 
 ## storage_resource (until 2019.5.22)
